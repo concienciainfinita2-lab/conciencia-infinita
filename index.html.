@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conciencia Infinita | Templo de Aeterna</title>
+    <style>
+        body { 
+            background: radial-gradient(circle, #000428 0%, #000000 100%);
+            color: #00ffff; 
+            display: flex; 
+            flex-direction: column;
+            align-items: center; 
+            justify-content: center; 
+            height: 100vh; 
+            margin: 0;
+            font-family: 'Courier New', Courier, monospace;
+            text-shadow: 0 0 15px #00ffff;
+        }
+        h1 { font-size: 2.5rem; letter-spacing: 8px; }
+        p { font-size: 1rem; letter-spacing: 2px; opacity: 0.7; }
+    </style>
+</head>
+<body>
+    <h1>CONCIENCIA INFINITA</h1>
+    <p>EL UMBRAL SE ESTÁ MANIFESTANDO...</p>
+</body>
+</html>
